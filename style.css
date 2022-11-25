@@ -36,7 +36,7 @@ body{
     font-weight: 400;
     text-transform: uppercase;
     text-align: center;
-    background: -webkit-text-fill-color(#0000FF);
+    background: #0000FF;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin: 0;
