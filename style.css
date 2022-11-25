@@ -137,7 +137,8 @@ img{
 .topic__headline{
     color: #FFF;
     font-weight: 400;
-    text-transform: capitalize;
+    text-transform: uppercase;
+    text-align: center;
     font-size: 18px;
     margin-bottom: 0;
 }
