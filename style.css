@@ -31,12 +31,12 @@ body{
     clear: both;
 }
 .title{
-    font-family: 'Faster One', cursive;
+    font-family: 'Ubuntu', cursive;
     font-size: 50px;
     font-weight: 400;
     text-transform: uppercase;
     text-align: center;
-    background: -webkit-linear-gradient(#F15251, #16A05D);
+    background: -webkit-linear-gradient(#F15251, #0000FF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin: 0;
