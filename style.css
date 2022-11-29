@@ -110,7 +110,7 @@ img{
     background-position: center;
 }
 .bg-grey{
-    background: #222222;
+    background-image: url("images/bg-top.png");
 }
 .bg-dark{
     background: #0D004C;
